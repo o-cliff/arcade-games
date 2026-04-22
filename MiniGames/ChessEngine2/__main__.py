@@ -1,0 +1,2 @@
+import ChessMain
+ChessMain.main()
