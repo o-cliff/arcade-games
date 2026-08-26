@@ -1,6 +1,6 @@
 # Arcade Game Collection
 
-A collection of simple arcade-style games built to explore game development fundamentals, user input handling, and interactive system design.
+A collection of simple arcade-style games built to explore game development fundamentals, user input handling, and interactive system design. Note that this was a side project from high school that I just did for fun.
 
 ## Overview
 This project contains multiple small games developed to practice software design, event handling, and modular programming.
