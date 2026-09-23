@@ -5,6 +5,12 @@ A collection of simple arcade-style games built to explore game development fund
 ## Overview
 This project contains multiple small games developed to practice software design, event handling, and modular programming.
 
+## How to run
+Simply download the files, then open a terminal in the home directory and run `python MiniGames`
+
+## Dependencies
+This project needs `os`, `pygame`, `random`, `sys`, and `struct`. Please ensure they are installed before running.
+
 ## Features
 - Multiple playable arcade-style games including 1 and 2 player snake, chess, tic tac toe, flappy bird, space invaders, and pong
 - Real-time user input handling
